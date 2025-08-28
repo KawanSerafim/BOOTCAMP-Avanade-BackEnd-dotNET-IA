@@ -22,7 +22,7 @@
 
 | Descrição | Projeto |
 | -------- | -------- |
-| Neste Projeto de LAB você será desafiado a construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos. | [[./Estacionamento](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA/blob/main/desafios/Estacionamento/README.md)] |
+| Neste Projeto de LAB você será desafiado a construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos. | [🔗] [[./Estacionamento]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA/blob/main/desafios/Estacionamento/README.md) |
 
 ---
 
@@ -38,3 +38,4 @@
 
 [![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
 [![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
+
