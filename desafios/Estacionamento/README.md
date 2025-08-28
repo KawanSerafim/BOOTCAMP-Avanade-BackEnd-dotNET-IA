@@ -65,6 +65,7 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 | Descrição | Caminho |
 | -------- | ----------- |
+| [📑] Desafios | [🔗] [[./BOOTCAMP-Avanade-BackEnd-dotNET-IA/desafios]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA/blob/main/desafios/README.md) |
 | [📑] Página principal | [🔗] [[./BOOTCAMP-Avanade-BackEnd-dotNET-IA]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA) |
 
 ---
