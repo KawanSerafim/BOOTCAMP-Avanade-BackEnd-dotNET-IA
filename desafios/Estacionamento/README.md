@@ -58,3 +58,19 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+---
+
+## 📖 Guia de Leitura
+
+| Descrição | Caminho |
+| -------- | ----------- |
+| [📑] Página principal | [🔗] [[./BOOTCAMP-Avanade-BackEnd-dotNET-IA]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA) |
+
+---
+
+## 🌐 Meus contatos
+
+[![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
+[![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
+
