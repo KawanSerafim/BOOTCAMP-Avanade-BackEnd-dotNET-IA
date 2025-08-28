@@ -30,7 +30,7 @@
 
 | Descrição | Caminho |
 | -------- | ----------- |
-| [📑] Página principal | [🔗] [[./desafios]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA) |
+| [📑] Página principal | [🔗] [[./BOOTCAMP-Avanade-BackEnd-dotNET-IA]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA) |
 
 ---
 
@@ -38,4 +38,5 @@
 
 [![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
 [![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
+
 
