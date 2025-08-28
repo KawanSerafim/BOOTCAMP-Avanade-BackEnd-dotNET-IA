@@ -18,7 +18,7 @@
 ---
 
 > [!NOTE]
-> Abaixo o REDME é composto pela própria DIO. Nada meu foi escrito a partir daqui.
+> Abaixo o README é composto pela própria DIO. Nada meu foi escrito a partir daqui.
 
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
