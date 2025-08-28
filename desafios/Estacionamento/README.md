@@ -1,3 +1,22 @@
+<div>
+    <h1 align="center">🚗 Estacionamento</h1>
+</div>
+
+<div align="center">
+    <img width="100%" alt="img" src="https://www.zkteco.com.br/wp-content/uploads/2020/04/estacionamento-leitorUHF.png"/>
+</div>
+
+---
+
+## Classes usadas
+
+| Descrição | Caminho |
+| -------- | -------- |
+| Classe de interação com o usuário. | [🎲] [Program.cs](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA/blob/main/desafios/Estacionamento/Program.cs) |
+| Classe modelo do estacionamento. | [🎲] [Estacionamento.cs](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA/blob/main/desafios/Estacionamento/Models/Estacionamento.cs) |
+
+---
+
 > [!NOTE]
 > Abaixo o REDME é composto pela própria DIO. Nada meu foi escrito a partir daqui.
 
