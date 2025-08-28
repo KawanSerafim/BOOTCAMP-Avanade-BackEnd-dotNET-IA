@@ -62,8 +62,6 @@
 
 ## 📖 Guia de Leitura
 
-### 📌 Estruturas Lógicas
-
 | Descrição | Caminho |
 | -------- | ----------- |
 | [📑] Desafios | [🔗] [[./desafios]](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA/blob/main/desafios/README.md) |
