@@ -9,11 +9,11 @@
 
 ---
 
-## Desafio Principal (🚧 Ainda não foi iniciado 🚧)
+## 🟧 Desafio Técnico Avanade (🚧 Ainda não foi iniciado 🚧)
 
 ---
 
-## Desafios de Aula
+## 📚 Desafios de Aula
 
 *Nesta seção estarão os links que direcionam para os projetos de cada exercício. Cada link será acompanhado de uma breve descrição do contexto, com o objetivo de esclarecer a finalidade do desafio.*
 
@@ -38,7 +38,3 @@
 
 [![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
 [![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
-
-
-
-
