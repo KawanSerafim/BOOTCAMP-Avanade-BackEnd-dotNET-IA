@@ -1,0 +1,15 @@
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\bin\Debug\net9.0\Estacionamento.exe
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\bin\Debug\net9.0\Estacionamento.deps.json
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\bin\Debug\net9.0\Estacionamento.runtimeconfig.json
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\bin\Debug\net9.0\Estacionamento.dll
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\bin\Debug\net9.0\Estacionamento.pdb
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.AssemblyInfo.cs
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.sourcelink.json
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.dll
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\refint\Estacionamento.dll
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.pdb
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\Estacionamento.genruntimeconfig.cache
+C:\Users\cleri\Documents\tmp\BOOTCAMP-Avanade-BackEnd-dotNET-IA\desafios\Estacionamento\obj\Debug\net9.0\ref\Estacionamento.dll
