@@ -5,7 +5,7 @@
 
 ---
 
-*O Bootcamp Avanade Backend .NET e IA é estruturado com foco na aplicação prática do conhecimento. Ao longo do curso, os participantes são imersos em desafios e projetos realistas, cada um com um tema central e um objetivo claro a ser alcançado. Essa metodologia garante a validação contínua do aprendizado e uma evolução mensurável aula após aula.*
+O Bootcamp Avanade Backend .NET e IA é estruturado com foco na aplicação prática do conhecimento. Ao longo do curso, os participantes são imersos em desafios e projetos realistas, cada um com um tema central e um objetivo claro a ser alcançado. Essa metodologia garante a validação contínua do aprendizado e uma evolução mensurável aula após aula.
 
 ---
 
@@ -15,10 +15,9 @@
 
 ## 📚 Desafios de Aula
 
-*Nesta seção estarão os links que direcionam para os projetos de cada desafio. Cada link será acompanhado de uma breve descrição do contexto, com o objetivo de esclarecer a finalidade do desafio.*
+Nesta seção estarão os links que direcionam para os projetos de cada desafio. Cada link será acompanhado de uma breve descrição do contexto, com o objetivo de esclarecer a finalidade do desafio. 
 
-> [!NOTE]
-> As descrições são as fornecidas pela própria DIO, para evitar ambiguidades. 
+### 🚗 Estacionamento
 
 | Descrição | Projeto |
 | -------- | -------- |
@@ -38,4 +37,5 @@
 
 [![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
 [![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
+
 
