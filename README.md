@@ -23,7 +23,7 @@
             <img title="Docker" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="60"/>
         </td>
         <td align="center" width="">
-            <img title="MariaDB" src="https://www.svgrepo.com/show/373824/mariadb.svg" alt="MariaDB" width="60"/>
+            <img title="MySQL" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="60"/>
         </td>
         <td align="center" width="">
             <img title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="60"/>
@@ -44,7 +44,7 @@
             <p>Docker</p>
         </td>
         <td align="center">
-            <p>MariaDB</p>
+            <p>MySQL</p>
         </td>
         <td align="center">
             <p>MongoDB</p>
